@@ -3,9 +3,8 @@
 This project analyzes patient data to identify factors contributing to the relapse of cervical cancer using logistic regression and model validation techniques.
 
 ## 📁 Project Structure
-- `Case Study Code.R`: Full R Markdown code for data cleaning, EDA, and model building.
-- `CaseStudy.pdf`: Full case study report.
-- `Case_Study_Presentation.pdf`: Presentation slides summarizing the project.
+- ` [CaseStudy.pdf](https://github.com/user-attachments/files/21474424/CaseStudy.pdf)`: Full case study report.
+- `[Case_Study_Presentation.pptx.pdf](https://github.com/user-attachments/files/21474413/Case_Study_Presentation.pptx.pdf)`: Presentation slides summarizing the project.
 
 ## 🧪 Methods
 - Data Cleaning & Transformation
@@ -25,6 +24,3 @@ This project analyzes patient data to identify factors contributing to the relap
 ## 📊 Tools Used
 - R (tidyverse, ggplot2, VGAM, pROC, ResourceSelection)
 - Excel for raw data import
-
-## 📄 License
-MIT License
