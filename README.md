@@ -24,3 +24,7 @@ This project analyzes patient data to identify factors contributing to the relap
 ## 📊 Tools Used
 - R (tidyverse, ggplot2, VGAM, pROC, ResourceSelection)
 - Excel for raw data import
+
+## 👤 Author
+Ali Krisht   
+[LinkedIn](https://linkedin.com/in/alikrisht)
